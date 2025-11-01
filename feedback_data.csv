@@ -1,0 +1,25 @@
+feedback_id,text,component,source
+F001,"""Steering wheel leather peeling after 6 months of use""",Steering Wheel,Customer
+F002,"""Leather on Steering Wheel has discolored & faded!!""",Steering Wheel,Customer
+F003,"""steering wheel has deep scratches n cracks on leather""",Steering Wheel,Customer
+F004,"""Steering wheel buttons not responsive intermittently.""",Steering Wheel,Workshop
+F005,"""ABS Sensor FAILURE triggered warning light on dash board""",ABS System,Workshop
+F006,"""ABS warning lght stays on intermittently""",ABS System,Customer
+F007,"""Brake pedal is unusually stiff & hard to press""",Brake System,Customer
+F008,"""Brake pads wear out faster than expected??""",Brake System,Workshop
+F009,"""Brake caliper making grinding noise!!!""",Brake System,Customer
+F010,"""Seatbelt fraying near the buckle after 3months""",Seatbelt,Workshop
+F011,"""Seatbelt stitching coming off near anchor point.""",Seatbelt,Customer
+F012,"""Seatbelt retracts slowly & gets stuck""",Seatbelt,Customer
+F013,"""ENGINE overheating after 10 minutes of driving""",Engine,Customer
+F014,"""Coolant leakage from radiator!!!""",Engine,Workshop
+F015,"""Check engine light comes on randomly""",Engine,Customer
+F016,"""air conditioning blows warm air instead of cold""",HVAC,Customer
+F017,"""AC compressor making LOUD noise""",HVAC,Workshop
+F018,"""Windshield wipers leave streaks on Glass""",Wipers,Customer
+F019,"""Wiper motor is making grinding sound""",Wipers,Workshop
+F020,"""Sunroof leaks during HEAVY rain""",Sunroof,Customer
+F021,"""Sunroof opening mechanism stuck""",Sunroof,Workshop
+F022,"""door lock actuator not working""",Doors,Customer
+F023,"""Front left door handle broken!!!""",Doors,Workshop
+F024,"""Rear right door DOES NOT close properly""",Doors,Customer
